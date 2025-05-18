@@ -1,6 +1,6 @@
 <p align="center">
  
-  <img src="https://a-toolrs.github.io/G-Google.png" width="150px" height="150px">
+  <img src="https://alpha-games.github.io/G-Google.png" width="150px" height="150px">
 
 </p>
 
@@ -40,16 +40,17 @@
 
 <h1 align="center">Other Stuff</h1>
 
-<a href="https://chromewebstore.google.com/detail/a-toolrs-portable/hbclpfdbinpmdgcglhmkngpabafdeaim"><img height="30px" src="https://img.shields.io/badge/Download%20The%20Extension-white?style=for-the-badge&logo=chromewebstore&logoColor=white&logoSize=auto&labelColor=%232d2d2d&color=%232d2d2d"></a>
+<a href="https://chromewebstore.google.com/detail/alpha-games-portable/hbclpfdbinpmdgcglhmkngpabafdeaim"><img height="30px" src="https://img.shields.io/badge/Download%20The%20Extension-white?style=for-the-badge&logo=chromewebstore&logoColor=white&logoSize=auto&labelColor=%232d2d2d&color=%232d2d2d"></a>
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/a-toolrs-portable/"><img height="30px" src="https://img.shields.io/badge/Download%20The%20Addon-white?style=for-the-badge&logo=firefoxbrowser&logoColor=white&logoSize=auto&color=%23FF7139"></a>
-
-
+<a href="https://addons.mozilla.org/en-US/firefox/addon/alpha-games-portable/"><img height="30px" src="https://img.shields.io/badge/Download%20The%20Addon-white?style=for-the-badge&logo=firefoxbrowser&logoColor=white&logoSize=auto&color=%23FF7139"></a>
 
 
 
 
 
 
-# a-toolrs.github.io
+
+
+# alpha-games.github.io
 # A-toolres.github.io
+# alpha-games.github.io-main
